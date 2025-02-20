@@ -14,13 +14,9 @@
 # 📊 GitHub Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inekruz&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=inekruz&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=inekruz&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=inekruz&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=inekruz&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=inekruz&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=inekruz&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=inekruz&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=inekruz&theme=solarized_dark)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=inekruz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
