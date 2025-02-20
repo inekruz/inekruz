@@ -12,10 +12,20 @@
 ![LLMs](https://img.shields.io/badge/LLMs-%23FFD700?style=flat)
 ![Finetunning](https://img.shields.io/badge/Finetunning-%23FF8C00?style=flat)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=inekruz&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=inekruz&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=inekruz&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Карточка профиля: 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
 
+Статистика языков в коммитах:
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
+
+Статистика языков в репозиториях:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+
+Статистика профиля:
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+
+Данные по коммитам за сутки:
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=inekruz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
