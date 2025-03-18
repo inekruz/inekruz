@@ -1,6 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
-![Contribution snake example](https://github.com/inekruz/inekruz/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inekruz/inekruz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/inekruz/inekruz/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Animation" src="https://raw.githubusercontent.com/inekruz/inekruz/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 🌐 Socials:
 [![TELEGRAM](https://i.imgur.com/rgGu9u1.png)](https://t.me/inekruz) 
